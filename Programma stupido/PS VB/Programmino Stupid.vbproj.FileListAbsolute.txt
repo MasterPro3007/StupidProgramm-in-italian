@@ -1,0 +1,13 @@
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\bin\Debug\Programmino Stupid.exe.config
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\bin\Debug\Programmino Stupid.exe
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\bin\Debug\Programmino Stupid.pdb
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\bin\Debug\Programmino Stupid.xml
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.vbproj.AssemblyReference.cache
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino_Stupid.Form1.resources
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino_Stupid.Resources.resources
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.vbproj.GenerateResource.cache
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.vbproj.CoreCompileInputs.cache
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.exe
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.xml
+C:\Users\lopog\source\repos\Programmino Stupid\Programmino Stupid\obj\Debug\Programmino Stupid.pdb

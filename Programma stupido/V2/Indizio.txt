@@ -1,0 +1,4 @@
+1: Debug
+2: Visual Studio Code
+3: Estensione
+4: Exe code runner
